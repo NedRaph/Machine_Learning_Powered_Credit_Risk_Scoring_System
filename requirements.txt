@@ -1,0 +1,19 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+xgboost
+catboost
+lightgbm
+dill
+Flask
+imblearn
+#-e .
+
+#pandas, numpy - Data manipulation & numerical ops.
+#scikit-learn - Core ML algorithms, preprocessing, pipelines.
+#matplotlib, seaborn - Visualization for EDA.
+#xgboost, catboost, lightgbm - Gradient boosting models for strong predictive performance in credit scoring.
+#dill - To serialize Python objects (useful for saving preprocessing pipelines/models).
+#Flask - for deploying the scoring system as a web App

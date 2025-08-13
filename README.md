@@ -1,4 +1,4 @@
-# Machine_Learning_Powered_Credit_Risk_Scoring_System
+Machine_Learning_Powered_Credit_Risk_Scoring_System
 ## Executive Summary
 Credit risk assessment is a critical process in the financial services industry. Inaccurate risk evaluation can lead to significant financial losses due to defaults, while overly conservative models can reduce lending opportunities.
 This project delivers a data-driven credit risk scoring model leveraging advanced machine learning techniques to provide accurate, scalable, and explainable risk predictions.
